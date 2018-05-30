@@ -4,8 +4,8 @@ import './footer.css';
 const Footer = props => (
    <footer className="footer">
         <div className="container">
-            <span class="text-muted">&copy; Breanna Nelson</span>
-        </div> 
+            <span className="text-muted text-center">&copy; Breanna Nelson</span>
+        </div>
    </footer>
 );
 
