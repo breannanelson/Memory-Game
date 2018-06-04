@@ -1,17 +1,23 @@
 import React from 'react';
 import './tiles.css';
-import tiles from "./tiles.json";
 
-const Tiles = props => (
-    <main role="main" className="container">
-        <div className="row">
-            <div className="col-md-1"></div>
-            <div className="col-md-10">
-                <p>Tiles go here</p>
-            </div>
-            <div className="col-md-1"></div>
-        </div>
-    </main>
-);
+// class Tiles extends React.Component {
+
+// you can do a did mount
+
+//render()
+//return
+
+const Tiles = props =>
+    <div className="img-container">
+        <img className='tile-img'
+             id={props.id} 
+            name={props.name} 
+            alt={props.name} 
+            src={props.image} 
+            onClick={props.onClick}
+        />
+    </div>
+
 
 export default Tiles;

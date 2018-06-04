@@ -1,34 +1,86 @@
 [
     {
       "id": 1,
-      "name": "SpongeBob",
+      "name": "Rachel and Ross",
       "image":
-        "https://upload.wikimedia.org/wikipedia/en/thumb/4/47/Spongebob-squarepants.svg/666px-Spongebob-squarepants.svg.png",
-      "occupation": "Fry Cook",
-      "location": "A Pineapple Under the Sea"
+        "http://www.comedycentral.co.uk/sites/default/files/styles/vimn_image_embed/public/gallery/large/one-ross-finds-out.jpg?itok=7pJuPxqp",
+      "isClicked": false
     },
     {
       "id": 2,
-      "name": "Mr. Krabs",
+      "name": "Rachel",
       "image":
-        "https://vignette3.wikia.nocookie.net/vsbattles/images/8/80/Mr._Krabs.png/revision/latest?cb=20150919162131",
-      "occupation": "Restaurant Owner",
-      "location": "A Giant Anchor"
+        "https://i.pinimg.com/736x/57/60/3c/57603c84715b8011d6a7e8609f4c748c--rachel-green-style-rachel-green-friends.jpg",
+      "isClicked": false
     },
     {
       "id": 3,
-      "name": "Squidward",
+      "name": "Joey",
       "image":
-        "https://vignette2.wikia.nocookie.net/fictionalcharacters/images/a/ac/Squidward.png/revision/latest?cb=20131121012626",
-      "occupation": "Cashier",
-      "location": "An Easter Island Head"
+        "https://pbs.twimg.com/profile_images/378800000746754449/5aca3cc2dd1a98d1bfaf5640caaa762f_400x400.jpeg",
+      "isClicked": false
     },
     {
       "id": 4,
-      "name": "Gary",
+      "name": "The 3 boys",
       "image":
-        "https://i.pinimg.com/originals/20/e9/44/20e9440535bc878369c23fb1915a2232.jpg",
-      "occupation": "Pet",
-      "location": "A Pineapple Under the Sea"
-    }
+        "https://i.pinimg.com/736x/fe/76/d4/fe76d4737dd8a173e930e2a24cbbf0bf--best-of-friends-ross-friends.jpg",
+      "isClicked": false
+    },
+    {
+        "id": 5,
+        "name": "Chandler with crazy hair",
+        "image":
+          "https://i.pinimg.com/originals/70/01/7a/70017a9f99b6aed03b8dd8da817d78fb.jpg",
+        "isClicked": false
+      },
+      {
+        "id": 6,
+        "name": "Ross with white teeth",
+        "image":
+          "http://4.bp.blogspot.com/-d_rS7uuZfk8/UbCgtj-qSLI/AAAAAAABBfs/DhcaafBb8JE/s1600/Ross's+teeth.png",
+        "isClicked": false
+      },
+      {
+        "id": 7,
+        "name": "Bunny suite",
+        "image":
+          "https://rachel9kim.files.wordpress.com/2010/11/806-the-one-with-the-halloween-party-avi_000280320.jpg",
+        "isClicked": false
+      },
+      {
+        "id": 8,
+        "name": "Phoebe",
+        "image":
+          "https://i.pinimg.com/originals/4a/b6/c2/4ab6c2362e2e32866b8f1094175e246d.jpg",
+        "isClicked": false
+      },
+      {
+        "id": 9,
+        "name": "Phoebe with the hair",
+        "image":
+          "http://img.diply.com/article-images/a/e92e9d0c-6d34-43b3-8887-8143f829f99f.jpg?impolicy=desktop",
+        "isClicked": false
+      },
+      {
+        "id": 10,
+        "name": "Monica",
+        "image":
+          "https://vignette.wikia.nocookie.net/friends/images/c/c2/Monica-Gellar.jpg/revision/latest?cb=20130802071243",
+        "isClicked": false
+      },
+      {
+        "id": 11,
+        "name": "Prom",
+        "image":
+          "https://img.buzzfeed.com/buzzfeed-static/static/2016-05/19/8/enhanced/buzzfeed-prod-web08/original-14467-1463661483-12.png?downsize=715:*&output-format=auto&output-quality=auto",
+        "isClicked": false
+      },
+      {
+        "id": 12,
+        "name": "Tan Ross",
+        "image":
+          "https://www.5percangol.hu/images/downloads/rosstan.jpg",
+        "isClicked": false
+      }
   ]
